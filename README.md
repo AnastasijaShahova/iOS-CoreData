@@ -1,2 +1,2 @@
 # iOS-Database
-applications using CoreData/realm
+applications using CoreData
